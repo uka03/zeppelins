@@ -1,0 +1,41 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.navList ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.navList a{
+    text-decoration: none;
+    color:#424242c8;
+    
+
+}
+.leftPoint{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    width: 90px;
+    height: 24px;
+    background-color:#5A47AB ;
+    clip-path: polygon(10% 0%, 100% 0%, 100% 100%, 10% 100%, 0% 50%);
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    border-radius: 2px;
+
+}
+
+.select{
+    color: #5A47AB !important;
+}
