@@ -1,0 +1,14 @@
+ 
+ .items{
+    display: flex;
+    gap:50px ;
+    list-style: none;
+    margin: 0;
+    padding: 0
+
+ }
+
+ .items li {
+    font-size: 22px;
+    padding: 5px;
+ }

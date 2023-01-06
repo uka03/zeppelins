@@ -1,5 +1,4 @@
-export const Data = ()=>{
-const data = [
+export const Data = [
         {
          title: "User Interface (UI) Design",
          image:
@@ -352,5 +351,6 @@ const data = [
          category: "TUT",
         },
         ]; 
-        return data       
-}
+    
+
+
